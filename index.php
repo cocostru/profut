@@ -15,7 +15,9 @@
 
         <div class="wrap">
 
-            <div class="wallpaper"></div>
+            <div class="wallpaper">
+                <img src="img/profile.jpg">
+            </div>
 
         </div>
 
